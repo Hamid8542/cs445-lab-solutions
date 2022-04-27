@@ -1,7 +1,7 @@
 # CS445-Lab-Solutions
  1. [Lab 1](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%201/Lab-1%20Solutions.pdf)
  2. Lab 2 - Typscript
-     i. Exercise 1
+     i. Exercise 1 This is the first line
      ii. Exercise 2
      iii. Exercise 3
      iv. Exercise 4
