@@ -1,3 +1,4 @@
+# Student Name: Abdulhamid Ibrahim
 # CS445-Lab-Solutions
  1. [Lab 1](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%201/Lab-1%20Solutions.pdf)<br>
  2. Lab 2 - Typscript <br>
