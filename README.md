@@ -7,8 +7,8 @@
      iii. [Exercise 3](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%202%20-%20Typescript/Exercise3.ts) <br>
      iv. [Exercise 4](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%202%20-%20Typescript/Exercise4.ts) <br>
 3. Lab 3 - Design Patterns 1 <br>
-     i. [Exercise 1](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%203%20Design%20Pattern%201/Exercise01.js) - Module Pattern <br>
-     ii. [Exercise 2](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%203%20Design%20Pattern%201/Exercise02.js) - Observer Pattern <br>
+     i. [Exercise 1 - Module Pattern](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%203%20Design%20Pattern%201/Exercise01.js)  <br>
+     ii. [Exercise 2 - Observer Pattern](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%203%20Design%20Pattern%201/Exercise02.js)  <br>
 4. Lab 4 - Design Patterns 2 <br>
      i. Exercise 1 - Factory Method pattern <br>
      ii. Exercise 2 - Decorator pattern <br>
