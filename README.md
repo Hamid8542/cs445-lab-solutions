@@ -16,7 +16,7 @@
      iv. [Exercise 4 - Memoized Fibonacci](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%204%20Design%20Pattern%202/Exercise04.js) <br>
 5. Lab 5 - JS Engine
 6. Lab 6 - JS DOM <br>
-     i. Swap Image(https://github.com/Hamid8542/cs445-lab-solutions/blob/main/lab%206%20JS%20DOM/swap.html) <br>
+     i. [Swap Image](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/lab%206%20JS%20DOM/swap.html) <br>
      ii. Calculator - html Calculator - JS <br>
 7. Lab 7 - Asynchronous Programming:Promise <br>
      i. Exercise 1 - isPrime <br>
