@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swap Pictures</title>
+    <style>
+        body {
+            margin: auto;
+        }
+        .main {
+           margin:30px;
+           border: 2px solid lightblue;
+           text-align: center;
+           margin-top: 100px;
+           padding: 30px;
+        }
+        #img1 {
+            margin: auto;
+            justify-self: center;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        #img2 {
+            margin: auto;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        #swapBtn {
+            margin: 20px 20px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="main">
+        <img src="/Lab Solution Videos/Lab 6/obama.jfif" alt="Barack Obama" id="img1">
+        <button id="swapBtn" onclick="swap()">Swap</button>
+        <img src="/Lab Solution Videos/Lab 6/michelle.jfif" alt="michelle Obama" id="img2">
+    
+    </div>
+   
+    <script>
+        window.onload = function () {
+            document.getElementById('swapBtn').onclick = function () {
+                let image1 = document.getElementById("img1");
+                let image2 = document.getElementById("img2");
+
+                let temp = image1.src;
+                image1.src = image2.src;
+                image2.src = temp;
+            }
+        }  
+    </script>
+</body>
+</html>
