@@ -15,15 +15,16 @@
      iii. [Exercise 3 - Strategy pattern](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%204%20Design%20Pattern%202/Exercise03.js)<br>
      iv. [Exercise 4 - Memoized Fibonacci](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%204%20Design%20Pattern%202/Exercise04.js) <br>
 5. Lab 5 - JS Engine
+     1.[Modern Web Browser](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%205%20Modern%20Web%20Browser/Lab2%20Modern%20Web%20Browser%20and%20JS%20Engine.pdf)
 6. Lab 6 - JS DOM <br>
      i. [Exercise 1 - Swap Image](https://hamid8542.github.io/cs315/Swap.html) <br>
      ii.[Exercise 2 - Calculator](https://hamid8542.github.io/cs315/calculator.html) <br>
 7. Lab 7 - Asynchronous Programming:Promise <br>
-     i. Exercise 1 - isPrime <br>
-    ii. Exercise 2 - removeDuplicatesAsync <br>
+     i. [Exercise 1 - isPrime using Promise](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%207%20-%20Intro%20to%20Asynchronous%20programming%20%26%20Promise/isPrimePromise.js) <br>
+    ii. [Exercise 2 - removeDuplicatesAsync](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%207%20-%20Intro%20to%20Asynchronous%20programming%20%26%20Promise/removeDuplicates.js) <br>
 8. Lab 8 - Asynchronous Programming:Async&await <br>
-     i. Exercise 1 - isPrime <br>
-     ii. Exercise 2 - removeDuplicatesAsync <br>
+     i. [Exercise 1 - isPrime](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%208%20-%20async%26await/isPrimeAsync.js) <br>
+     ii. [Exercise 2 - removeDuplicatesAsync](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%208%20-%20async%26await/removeDuplicateAsync.js) <br>
 9. Lab 9 - Fetch <br>
      i. Soln 1 - index.html Soln 1 - index.js <br>
      ii. Soln 2 - index.html Soln 2 - index.js <br>
