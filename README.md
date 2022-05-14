@@ -26,8 +26,10 @@
      i. [Exercise 1 - isPrime](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%208%20-%20async%26await/isPrimeAsync.js) <br>
      ii. [Exercise 2 - removeDuplicatesAsync](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%208%20-%20async%26await/removeDuplicateAsync.js) <br>
 9. Lab 9 - Fetch <br>
-     i. Soln 1 - index.html Soln 1 - index.js <br>
-     ii. Soln 2 - index.html Soln 2 - index.js <br>
+     i. [Employee List - Employee List](https://hamid8542.github.io/cs315/employee.html) <br>
+     
+
 10. Lab 10 - RXJS <br>
      i. HTML - index.html <br>
      ii. JavaScript - index.js <br>
+11. Project [CS445 Project](https://github.com/Hamid8542/cs445-lab-solutions/tree/main/CS445-Project) <br>
