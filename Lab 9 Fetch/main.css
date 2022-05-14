@@ -1,0 +1,17 @@
+
+.container {
+  border: lightblue solid 5px ;
+  background-color: skyblue;
+  margin: auto;
+  width: 600px;
+  justify-items: center;
+  
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+refeshBtn {
+    color: lightgreen; 
+ }
