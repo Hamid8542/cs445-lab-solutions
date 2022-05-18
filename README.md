@@ -27,7 +27,6 @@
      ii. [Exercise 2 - removeDuplicatesAsync](https://github.com/Hamid8542/cs445-lab-solutions/blob/main/Lab%208%20-%20async%26await/removeDuplicateAsync.js) <br>
 9. Lab 9 - Fetch <br>
      i. [Employee List - Employee List](https://hamid8542.github.io/cs315/employee.html) <br>
-     
 
 10. Lab 10 - RXJS <br>
      i. HTML - index.html <br>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="../project_musicApps/apps.css" rel="stylesheet" type="text/css" />
+    <script src="../project_musicApps/apps.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header id="header">
+            <div id="left">
+                <img class="logo" src="../project_musicApps/img/logo.png" alt="myLogo">
+            </div>
+            <div id="right">
+                <div id="search">
+                    <input id="search-song" placeholder="Enter song name or title ...">
+                    <button class="btn btn-primary" id="searchbtn">Search</button>
+                </div>
+                <div id="login-div">
+                    <input id="username" placeholder="username">
+                    <input id="password" placeholder="password">
+                    <button class="btn btn-primary" id="loginBtn">Login</button>
+                    <div id="errormessage"></div>
+                </div>
+                <div id="logout-div">
+                    <button class="btn btn-primary" id="logoutBtn">Logout</button>
+                </div>
+            </div>
+
+        </header>
+       
+                    <div class="container" id="musiclist">
+                        
+
+                    </div>
+                    <div class="container2" id="playlist">
+                       
+
+                    </div>
+                 
+                    <div id="nonplaylist"></div>
+                    <div class="myplayer ">
+
+                    </div>
+
+        </div>
+        <div id="footer-div" class="play">
+            <footer id="footer">
+                <div>
+                    <i class="bi bi-play-fill"></i>
+                    <img src="../project_musicApps/img/play-fill.svg" alt="">
+                </div>
+                <div>
+                    <i class="bi bi-skip-backward-fill"></i>
+                    <img src="../project_musicApps/img/skip-backward-fill.svg" alt="">
+                </div>
+                <div>
+                    <i class="bi bi-skip-forward-fill"></i>
+                    <img src="../project_musicApps/img/skip-forward-fill.svg" alt="">
+                </div>
+                <div>
+                    <i class="bi bi-shuffle"></i>
+                    <img src="../project_musicApps/img/shuffle.svg" alt="">
+                </div>
+                <div>
+                    <i class="bi bi-pause-circle"></i>
+                    <img src="../project_musicApps/img/pause-circle.svg" alt="">
+                </div>
+                <div>
+                    <i class="bi bi-play-fill"></i>
+                    <img src="../project_musicApps/img/volume-up.svg" alt="">
+                </div>
+
+        </div>
+        </footer>
+    </div>
+</body>
+
+</html>
