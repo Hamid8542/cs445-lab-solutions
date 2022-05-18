@@ -31,4 +31,4 @@
 10. Lab 10 - RXJS <br>
      i. HTML - index.html <br>
      ii. JavaScript - index.js <br>
-11. Project [CS445 Project](https://github.com/Hamid8542/cs445-lab-solutions/tree/main/CS445-Project) <br>
+11. Project [CS445 Project](https://github.com/Hamid8542/cs445-lab-solutions/tree/main/CS445%20Final%20project/music/project_musicApps) <br>
